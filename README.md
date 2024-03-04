@@ -33,7 +33,7 @@ D) function:myFunction() {};
 
 6.)Which object is used to represent the HTML document in the DOM?
 A) window
-B) document 
+B) document --
 C) HTMLDocument
 D) DOM
 
